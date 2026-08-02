@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Brian 👋</h1>
 <p align="center">Full-stack & web developer building SaaS and games.</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=500&lines=Full-stack+%26+web+developer;Laravel+%C2%B7+Vue+3+%C2%B7+TypeScript+%C2%B7+C%23;Building+SaaS+and+games" />
+</p>
+
 <br>
 
 ### 🛠️ Tech Stack
