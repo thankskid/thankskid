@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6EE7B7&height=200&section=header&text=Hi,%20I'm%20Brian%20%F0%9F%91%8B&fontColor=ffffff&fontSize=48&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6EE7B7&height=200&section=header&text=Hi,%20there%20%F0%9F%91%8B&fontColor=ffffff&fontSize=48&animation=fadeIn" />
 </p>
 
 <!-- Typing subtitle -->
